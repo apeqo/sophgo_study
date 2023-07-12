@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "53f3300c0adaf365",
+    "type": "split",
+    "children": [
+      {
+        "id": "3117d4ec07e6b6e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b67dbc89a04cc0c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-05-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a8480dcb7a4ff75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-05-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90a4021cdfd9f501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-05-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1960c18f83093b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-05-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f5dd8e359d852f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-06-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3556b176e72ecf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "174a99849f3ee537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a40203108efe7cf7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0258a14effb90337",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f489e45f26931f7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "738f11deb6cc75cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45369fa36078f935",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b9ce4227cf1075b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1283612782bd42ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-06-30.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "752db085e357326b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-06-30.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f3cc54d36f25818",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a1d2e916920786f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-06-30.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9f5dd8e359d852f5",
+  "lastOpenFiles": [
+    "2023-05-12.md",
+    "2023-06-30.md",
+    "2023-05-17.md",
+    "2023-05-23.md",
+    "2023-05-24.md",
+    "2023-05-25.md",
+    "2023-05-26.md",
+    "2023-05-30.md",
+    "2023-06-07.md",
+    "2023-06-08.md",
+    "2023-06-29.md",
+    "2023-06-28.md",
+    "2023-04-26.md",
+    "2023-05-04.md",
+    "2023-05-05.md",
+    "2023-05-09.md",
+    "2023-05-10.md",
+    "2023-05-11.md",
+    "2023-06-09.md",
+    "2023-06-14.md",
+    "2023-06-16.md",
+    "2023-06-20.md",
+    "2023-06-27.md",
+    "2023-06-26.md",
+    "2023-06-21.md",
+    "笔记/野火嵌入式linux.md",
+    "Pasted image 20230608163637.png",
+    "picture/Pasted image 20230505141550.png",
+    "picture/Pasted image 20230516110016.png",
+    "picture/Pasted image 20230512120207.png",
+    "picture/Pasted image 20230512120142.png",
+    "picture/Pasted image 20230512113912.png",
+    "picture/Pasted image 20230512112542.png",
+    "picture/Pasted image 20230512110708.png",
+    "picture/Pasted image 20230512105127.png",
+    "picture/Pasted image 20230512105119.png",
+    "未命名 1",
+    "未命名",
+    "picture",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "笔记",
+    "日记",
+    "未命名 3.canvas",
+    "未命名 2.canvas"
+  ]
+}
